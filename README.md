@@ -47,23 +47,6 @@ A fully self-contained, single-file HTML mock exam for the **CISSP (Certified In
 
 ---
 
-## Usage
-
-No build step, no npm, no server required.
-
-```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/cissp-mock-exam.git
-
-# Open directly in your browser
-open cissp_mock_test.html
-# or just double-click the file
-```
-
-That's it.
-
----
-
 ## How It Works
 
 The entire exam is a single `.html` file with vanilla HTML, CSS, and JavaScript.
