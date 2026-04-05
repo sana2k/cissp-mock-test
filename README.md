@@ -7,6 +7,8 @@ A fully self-contained, single-file HTML mock exam for the **CISSP (Certified In
 ![Domains](https://img.shields.io/badge/Domains-8-violet?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+**🔗 Live Demo: [talha2k.com/projects/cissp/cissp_mock_test.html](https://talha2k.com/projects/cissp/cissp_mock_test.html)**
+
 ---
 
 ## Preview
