@@ -56,33 +56,6 @@ The entire exam is a single `.html` file with vanilla HTML, CSS, and JavaScript.
 - Timer state, answers, and flags are held in memory for the duration of the session
 - The report is rendered client-side after submission
 
-### Adding or Editing Questions
-
-Each question in the `QUESTIONS` array follows this structure:
-
-```js
-{
-  d: 0,                          // Domain index (0–7)
-  q: "Question text here?",
-  o: ["Option A", "Option B", "Option C", "Option D"],
-  a: 1,                          // Correct answer index (0-based)
-  e: "Explanation of why the answer is correct."
-}
-```
-
-Domain indices map as follows:
-
-```
-0 = Security & Risk Management
-1 = Asset Security
-2 = Security Architecture & Design
-3 = Communication & Network Security
-4 = Identity & Access Management
-5 = Security Assessment & Testing
-6 = Security Operations
-7 = Software Development Security
-```
-
 ---
 
 ## Scoring
